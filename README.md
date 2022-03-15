@@ -1,1 +1,1 @@
-Bea JOyas Proyecto de teo sayegh
+Proyecto de Javascript creado por Teo Sayegh en el marco del curso de Javascript de CoderHouse

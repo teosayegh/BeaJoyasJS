@@ -1528,7 +1528,7 @@ readers do not read off random characters that represent icons */
   content: "\f39f"; }
 
 .fa-facebook-square:before {
-  content: "\f082"; }
+  content: "\f082"; } 
 
 .fa-fan:before {
   content: "\f863"; }
