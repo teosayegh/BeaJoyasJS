@@ -8,7 +8,7 @@ Javascript project created by Teo Sayegh as part of CoderHouse's Javascript cour
 I am a full stack web developer student who has just started, and I want to learn the different languages ​​in the process!
 
 ## 🛠 Skills applied in the project by me
-HTML, CSS, SASS, BOOTSTRAP, GIT, GITHUB
+HTML, CSS, JAVASCRIPT, BOOTSTRAP, GIT, GITHUB
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/teosayegh?tab=repositories)
