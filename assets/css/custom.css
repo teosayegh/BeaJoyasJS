@@ -1,15 +1,21 @@
-/*
-Custom Css
-*/
+/* Custom Css */
 
-.bg-aboutus{ 
-    background: rgb(213,63,140);
-    background: linear-gradient(60deg, rgba(213,63,140,1) 48%, rgba(2,0,36,1) 100%);
-}
+/* ICONS */
 
-.fa-building-columns{
+.fa-building-columns {
     content: "\f19c"
 }
-.fa-building-columns::before{
+
+.fa-building-columns::before {
     content: "\f19c"
-} 
+}
+
+.fa-location-dot {
+    content: "\f3c5"
+}
+
+.fa-location-dot::before {
+    content: "\f3c5"
+}
+
+/* END ICONS */
